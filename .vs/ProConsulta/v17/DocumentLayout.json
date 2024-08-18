@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\blazor\\proconsulta\\proconsulta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\blazor\\proconsulta\\proconsulta\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProConsulta\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:43:07.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "ProConsulta\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEYAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:46:47.974Z",
+              "EditorCaption": ""
             }
           ]
         }

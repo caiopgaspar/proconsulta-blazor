@@ -28,11 +28,13 @@ namespace ProConsulta.Data.Configurations
                 .IsRequired(true)
                 .HasColumnType("NVARCHAR(11)");
 
-            builder.Property(x => x.Especialidade)
-                .IsRequired(true);
-
             builder.HasIndex(x => x.Nome)
                 .IsUnique(true);
+
+            builder.HasOne(m => m.Especialidade)
+                .WithMany(e => e.Medicos)
+                .HasForeignKey(m => m.EspecialidadeId)
+                .OnDelete(DeleteBehavior.Restrict);
 
             builder.HasMany(a => a.Agendamentos)
                 .WithOne(m => m.Medico)

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProConsulta.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProConsulta.props",
+      "PackagePath": "build\\ProConsulta.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProConsulta.props",
+      "PackagePath": "buildMultiTargeting\\ProConsulta.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProConsulta.props",
+      "PackagePath": "buildTransitive\\ProConsulta.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

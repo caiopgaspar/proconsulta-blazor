@@ -3,47 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\blazor\\proconsulta\\proconsulta\\data\\configurations\\agendamentoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\data\\configurations\\agendamentoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\blazor\\proconsulta\\proconsulta\\components\\pages\\pacientes\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\pages\\pacientes\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\blazor\\proconsulta\\proconsulta\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\Migrations\\20240819000707_initialapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProConsulta\\Data\\Migrations\\20240819000707_initialapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\blazor\\proconsulta\\proconsulta\\data\\configurations\\especialidadeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\data\\configurations\\especialidadeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\blazor\\proconsulta\\proconsulta\\data\\configurations\\medicoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\data\\configurations\\medicoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c-gas\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ProConsulta-d3f519e3-85f4-4063-a843-1a49052b9313\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\blazor\\proconsulta\\proconsulta\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\blazor\\proconsulta\\proconsulta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\blazor\\proconsulta\\proconsulta\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\blazor\\proconsulta\\proconsulta\\models\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\models\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\blazor\\proconsulta\\proconsulta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\blazor\\proconsulta\\proconsulta\\components\\pages\\pacientes\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974F72E5-02F0-473B-9C73-55DB671E86A4}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\pages\\pacientes\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,145 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ProConsulta\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ProConsulta\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T15:43:07.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "ProConsulta\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "ProConsulta\\Data\\DbInitializer.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAswEsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T15:46:47.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Program.cs",
-              "RelativeDocumentMoniker": "ProConsulta\\Program.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Program.cs",
-              "RelativeToolTip": "ProConsulta\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T23:45:09.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\c-gas\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ProConsulta-d3f519e3-85f4-4063-a843-1a49052b9313\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ProConsulta-d3f519e3-85f4-4063-a843-1a49052b9313\\secrets.json",
-              "ToolTip": "C:\\Users\\c-gas\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ProConsulta-d3f519e3-85f4-4063-a843-1a49052b9313\\secrets.json",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ProConsulta-d3f519e3-85f4-4063-a843-1a49052b9313\\secrets.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-18T23:46:41.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Medico.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Models\\Medico.cs",
-              "RelativeDocumentMoniker": "ProConsulta\\Models\\Medico.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Models\\Medico.cs",
-              "RelativeToolTip": "ProConsulta\\Models\\Medico.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T23:52:23.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Especialidade.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Models\\Especialidade.cs",
-              "RelativeDocumentMoniker": "ProConsulta\\Models\\Especialidade.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Models\\Especialidade.cs",
-              "RelativeToolTip": "ProConsulta\\Models\\Especialidade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T23:53:03.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MedicoConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\Configurations\\MedicoConfiguration.cs",
-              "RelativeDocumentMoniker": "ProConsulta\\Data\\Configurations\\MedicoConfiguration.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\Configurations\\MedicoConfiguration.cs",
-              "RelativeToolTip": "ProConsulta\\Data\\Configurations\\MedicoConfiguration.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T23:54:34.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EspecialidadeConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\Configurations\\EspecialidadeConfiguration.cs",
-              "RelativeDocumentMoniker": "ProConsulta\\Data\\Configurations\\EspecialidadeConfiguration.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\Configurations\\EspecialidadeConfiguration.cs",
-              "RelativeToolTip": "ProConsulta\\Data\\Configurations\\EspecialidadeConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T23:54:39.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240819000707_initialapp.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\Migrations\\20240819000707_initialapp.cs",
-              "RelativeDocumentMoniker": "ProConsulta\\Data\\Migrations\\20240819000707_initialapp.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\Migrations\\20240819000707_initialapp.cs",
-              "RelativeToolTip": "ProConsulta\\Data\\Migrations\\20240819000707_initialapp.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFoAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T00:07:07.19Z",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Components\\Pages\\Pacientes\\Index.razor",
+              "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Pacientes\\Index.razor",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Components\\Pages\\Pacientes\\Index.razor",
+              "RelativeToolTip": "ProConsulta\\Components\\Pages\\Pacientes\\Index.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T23:22:49.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Agendamento.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Models\\Agendamento.cs",
-              "RelativeDocumentMoniker": "ProConsulta\\Models\\Agendamento.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Models\\Agendamento.cs",
-              "RelativeToolTip": "ProConsulta\\Models\\Agendamento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Index.razor.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Components\\Pages\\Pacientes\\Index.razor.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Pacientes\\Index.razor.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Components\\Pages\\Pacientes\\Index.razor.cs",
+              "RelativeToolTip": "ProConsulta\\Components\\Pages\\Pacientes\\Index.razor.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T00:13:32.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AgendamentoConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\Configurations\\AgendamentoConfiguration.cs",
-              "RelativeDocumentMoniker": "ProConsulta\\Data\\Configurations\\AgendamentoConfiguration.cs",
-              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Blazor\\ProConsulta\\ProConsulta\\Data\\Configurations\\AgendamentoConfiguration.cs",
-              "RelativeToolTip": "ProConsulta\\Data\\Configurations\\AgendamentoConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T00:13:44.622Z",
+              "WhenOpened": "2024-08-19T23:24:25.034Z",
               "EditorCaption": ""
             }
           ]

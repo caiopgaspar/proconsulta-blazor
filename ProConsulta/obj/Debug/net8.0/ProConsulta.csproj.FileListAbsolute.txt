@@ -150,3 +150,4 @@ C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\o
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\ProConsulta.pdb
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\ProConsulta.genruntimeconfig.cache
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\ref\ProConsulta.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\ProConsulta.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GHWijrAbCtbJm1MI6/MdyuMLO8l8BjDjXdgCRGWMH94=",
+  "Hash": "LtaNlIIs4Nm3cMnFQOxqY+yTw/3meDL2dJo/T1fhHv0=",
   "Source": "ProConsulta",
   "BasePath": "_content/ProConsulta",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\c-gas\\.nuget\\packages\\extensions.mudblazor.staticinput\\2.1.1\\staticwebassets\\NavigationObserver.js",
+      "Identity": "C:\\Users\\c-gas\\.nuget\\packages\\extensions.mudblazor.staticinput\\2.1.2\\staticwebassets\\NavigationObserver.js",
       "SourceId": "Extensions.MudBlazor.StaticInput",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\c-gas\\.nuget\\packages\\extensions.mudblazor.staticinput\\2.1.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\c-gas\\.nuget\\packages\\extensions.mudblazor.staticinput\\2.1.2\\staticwebassets\\",
       "BasePath": "_content/Extensions.MudBlazor.StaticInput",
       "RelativePath": "NavigationObserver.js",
       "AssetKind": "All",
@@ -33,7 +33,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Always",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\c-gas\\.nuget\\packages\\extensions.mudblazor.staticinput\\2.1.1\\staticwebassets\\NavigationObserver.js"
+      "OriginalItemSpec": "C:\\Users\\c-gas\\.nuget\\packages\\extensions.mudblazor.staticinput\\2.1.2\\staticwebassets\\NavigationObserver.js"
     },
     {
       "Identity": "C:\\Users\\c-gas\\.nuget\\packages\\mudblazor\\7.6.0\\staticwebassets\\MudBlazor.min.css",

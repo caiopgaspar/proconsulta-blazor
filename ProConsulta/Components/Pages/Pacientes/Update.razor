@@ -1,0 +1,53 @@
+﻿@page "/pacientes/update/{PacienteId:int}"
+@inherits UpdatePaciente
+
+<MudText Typo="Typo.h3">Atualizar Paciente</MudText>
+
+<MudPaper Class="pa-8 mt-4">
+
+    <EditForm Model="@InputModel" OnValidSubmit="OnValidSubmitAsync">
+        <DataAnnotationsValidator />
+
+        <MudTextField Label="Nome"
+                      Variant="Variant.Outlined"
+                      HelperText="Campo obrigatório"
+                      @bind-value="InputModel.Nome"
+                      For="@(() => InputModel.Nome)" />
+
+        <MudTextField Label="Documento"
+                      Variant="Variant.Outlined"
+                      HelperText="Campo obrigatório"
+                      @bind-value="InputModel.Documento"
+                      Mask="@(new PatternMask("000.000.000-00"))"
+                      For="@(() => InputModel.Documento)" />
+
+        <MudTextField Label="Email"
+                      Variant="Variant.Outlined"
+                      HelperText="Campo obrigatório"
+                      @bind-value="InputModel.Email"
+                      For="@(() => InputModel.Email)" />
+
+        <MudTextField Label="Celular"
+                      Variant="Variant.Outlined"
+                      HelperText="Campo obrigatório"
+                      @bind-value="InputModel.Celular"
+                      Mask="@(new PatternMask("(00) 0 0000-0000"))"
+                      For="@(() => InputModel.Celular)" />
+
+        <MudDatePicker Label="Data de Nascimento"
+                       Editable="false"
+                       @bind-Date="DataNascimento"
+                       Variant="Variant.Outlined"
+                       Placeholder="Data de Nascimento" />
+
+        <MudDivider Class="m-4" />
+
+        <MudButton Variant="Variant.Filled"
+                   StartIcon="@Icons.Material.Filled.Save"
+                   Color="Color.Info"
+                   Size="Size.Large"
+                   ButtonType="ButtonType.Submit">SALVAR</MudButton>
+
+    </EditForm>
+
+</MudPaper>

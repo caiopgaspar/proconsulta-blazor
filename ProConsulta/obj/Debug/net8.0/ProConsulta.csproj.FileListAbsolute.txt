@@ -136,6 +136,7 @@ C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\o
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\ProConsulta.AssemblyInfo.cs
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\ProConsulta.csproj.CoreCompileInputs.cache
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\ProConsulta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\ProConsulta.sourcelink.json
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\staticwebassets\msbuild.ProConsulta.Microsoft.AspNetCore.StaticWebAssets.props
@@ -150,4 +151,3 @@ C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\o
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\ProConsulta.pdb
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\ProConsulta.genruntimeconfig.cache
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\ref\ProConsulta.dll
-C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta\obj\Debug\net8.0\ProConsulta.sourcelink.json

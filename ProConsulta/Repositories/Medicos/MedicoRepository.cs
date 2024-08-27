@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ProConsulta.Data;
 using ProConsulta.Models;
-using System.Security.AccessControl;
 
 namespace ProConsulta.Repositories.Medicos
 {

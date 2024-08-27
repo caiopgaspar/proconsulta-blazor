@@ -22,6 +22,8 @@ namespace ProConsulta.Components.Pages.Pacientes
 
         public DateTime? DataNascimento { get; set; } = DateTime.Today;
 
+        public DateTime? MaxDate {  get; set; } = DateTime.Today;
+
         public async Task OnValidSubmitAsync(EditContext editContext)
         {
             try

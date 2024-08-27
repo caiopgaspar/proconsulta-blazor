@@ -24,6 +24,7 @@ namespace ProConsulta.Components.Pages.Pacientes
         public PacienteInputModel InputModel { get; set; } = new ();
         private Paciente? CurrentPaciente { get; set; }
         public DateTime? DataNascimento { get; set; } = DateTime.Today;
+        public DateTime? MaxDate { get; set; } = DateTime.Today;
 
         protected override async Task OnInitializedAsync()
         {
@@ -42,14 +43,14 @@ namespace ProConsulta.Components.Pages.Pacientes
                 Documento = CurrentPaciente.Documento,
             };
 
-            DataNascimento = CurrentPaciente.DataNascimento;
+            //DataNascimento = CurrentPaciente.DataNascimento;            
         }
 
-        public async Task OnValidSubmitAsync(EditContext editcontext)
+        public async Task OnValidSubmitAsync(EditContext editContext)
         {
             try
             {
-                if(editcontext.Model is PacienteInputModel model)
+                if(editContext.Model is PacienteInputModel model)
                 {
                     CurrentPaciente.Nome = model.Nome;
                     CurrentPaciente.Documento = model.Documento.SomenteCaracteres();

@@ -43,7 +43,7 @@ namespace ProConsulta.Components.Pages.Pacientes
                 Documento = CurrentPaciente.Documento,
             };
 
-            //DataNascimento = CurrentPaciente.DataNascimento;            
+            DataNascimento = CurrentPaciente.DataNascimento;            
         }
 
         public async Task OnValidSubmitAsync(EditContext editContext)

@@ -1,9 +1,9 @@
-﻿@page "/medicos/create"
-@inherits CreateMedicoPage
+﻿@page "/medicos/update/{MedicoId:int}"
+@inherits UpdateMedicoPage
 
 <PageTitle>Médicos</PageTitle>
 
-<MudText Typo="Typo.h3">Cadastro de Médicos</MudText>
+<MudText Typo="Typo.h3">Atualizar Médico</MudText>
 
 <MudPaper Class="pa-8 mt-4">
 
@@ -44,10 +44,10 @@
                    AnchorOrigin="Origin.BottomCenter"
                    For="@(()=> InputModel.EspecialidadeId)">
 
-                   @foreach(var especialidade in Especialidades)
-                   {
-                       <MudSelectItem Value="@especialidade.Id">@especialidade.Nome</MudSelectItem>
-                   }
+            @foreach (var especialidade in Especialidades)
+            {
+                <MudSelectItem Value="@especialidade.Id">@especialidade.Nome</MudSelectItem>
+            }
 
         </MudSelect>
 
@@ -58,7 +58,8 @@
                    Color="Color.Info"
                    Size="Size.Large"
                    ButtonType="ButtonType.Submit">
-                   SALVAR</MudButton>
+            SALVAR
+        </MudButton>
 
     </EditForm>
 

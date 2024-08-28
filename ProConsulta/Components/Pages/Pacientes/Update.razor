@@ -11,26 +11,26 @@
         <MudTextField Label="Nome"
                       Variant="Variant.Outlined"
                       HelperText="Campo obrigatório"
-                      @bind-value="InputModel.Nome"
+                      @bind-Value="InputModel.Nome"
                       For="@(() => InputModel.Nome)" />
 
         <MudTextField Label="Documento"
                       Variant="Variant.Outlined"
                       HelperText="Campo obrigatório"
-                      @bind-value="InputModel.Documento"
+                      @bind-Value="InputModel.Documento"
                       Mask="@(new PatternMask("000.000.000-00"))"
                       For="@(() => InputModel.Documento)" />
 
         <MudTextField Label="Email"
                       Variant="Variant.Outlined"
                       HelperText="Campo obrigatório"
-                      @bind-value="InputModel.Email"
+                      @bind-Value="InputModel.Email"
                       For="@(() => InputModel.Email)" />
 
         <MudTextField Label="Celular"
                       Variant="Variant.Outlined"
                       HelperText="Campo obrigatório"
-                      @bind-value="InputModel.Celular"
+                      @bind-Value="InputModel.Celular"
                       Mask="@(new PatternMask("(00) 0 0000-0000"))"
                       For="@(() => InputModel.Celular)" />
 

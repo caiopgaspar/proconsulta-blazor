@@ -19,7 +19,7 @@ namespace ProConsulta.Components.Pages.Medicos
         [Inject]
         public ISnackbar Snackbar { get; set; } = null!;
 
-        public List<Medico> Medicos { get; set; } = new(); /*List<Medico>();*/
+        public List<Medico> Medicos { get; set; } = new();
 
         public async Task DeleteMedicoAsync(Medico medico)
         {

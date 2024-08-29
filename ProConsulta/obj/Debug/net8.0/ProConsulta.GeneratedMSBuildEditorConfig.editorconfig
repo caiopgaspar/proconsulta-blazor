@@ -185,12 +185,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Pages/Auth.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdXRoLnJhem9y
+[C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Pages/Agendamentos/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZ2VuZGFtZW50b3NcQ3JlYXRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+[C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Pages/Agendamentos/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZ2VuZGFtZW50b3NcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Pages/Auth.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdXRoLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Pages/Error.razor]
@@ -223,10 +227,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Pages/Pacientes/Update.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWNpZW50ZXNcVXBkYXRlLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Routes.razor]

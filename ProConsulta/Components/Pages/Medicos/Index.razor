@@ -27,11 +27,13 @@
                 <MudStack Row>
                     <MudFab Size="Size.Small"
                             Label="Editar"
+                            hidden="@HideButtons"
                             @onclick="@(() => GoToUpdate(context.Item.Id))"
                             StartIcon="@Icons.Material.Filled.Edit"
                             Color="Color.Success" />
                     <MudFab Size="Size.Small"
                             Label="Excluir"
+                            hidden="@HideButtons"
                             @onclick="@(() => DeleteMedicoAsync(context.Item))"
                             StartIcon="@Icons.Material.Filled.Delete"
                             Color="Color.Error" />

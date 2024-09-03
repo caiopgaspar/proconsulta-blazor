@@ -17,4 +17,27 @@
     <PackageReference Include="Extensions.MudBlazor.StaticInput" Version="2.*" />
   </ItemGroup>
 
+
+  <ItemGroup>
+    <Content Update="Components\Layout\LoginLayout.razor">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+    </Content>
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Components\Account\Pages\Manage\Logout.razor" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Components\Account\AccessDenied.razor" />
+    <_ContentIncludedByDefault Remove="Components\Account\Pages\Manage\Logout.razor" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Components\Account\AccessDenied.razor" />
+  </ItemGroup>
+
 </Project>

@@ -21,8 +21,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\Blazor\ProConsulta\ProConsulta
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Account/Pages/AccessDenied.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXEFjY2Vzc0RlbmllZC5yYXpvcg==
+[C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Account/AccessDenied.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XEFjY2Vzc0RlbmllZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Account/Pages/AccessDenied2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXEFjY2Vzc0RlbmllZDIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Account/Pages/ConfirmEmail.razor]
@@ -101,6 +105,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxJbmRleC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Account/Pages/Manage/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxMb2dvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Account/Pages/Manage/PersonalData.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXE1hbmFnZVxQZXJzb25hbERhdGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -175,6 +183,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Layout/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTG9naW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/c-gas/OneDrive/Documentos/DEV/mentoria/Blazor/ProConsulta/ProConsulta/Components/Layout/MainLayout.razor]
